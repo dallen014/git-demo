@@ -49,8 +49,4 @@ Portland coach Terry Stotts, answering what Lillard was doing in the game late i
 ## Website Contents
 Here are the files in the website.
 1. index.html
-2.
-3.
-
-
-## Talking through usefulness
+2. random html code
